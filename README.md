@@ -6,9 +6,6 @@
 ### Acessando o sistema
 > Acesse o sistema: [Hunter](https://hunter.qa.miisy.me)
 
-#[code](#code)
-#[texto](1)
-
 ### Fazendo o login:
 > - Após acessar o sistema iremos cair na tela:
 >
@@ -39,8 +36,7 @@
 
 ### Bom dia
 >
-> See the section on [`Acessando o sistema`](id)
-> See the section on [`code`](#code).
+> 
 > 
 > 
 > 
