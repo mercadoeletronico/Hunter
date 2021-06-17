@@ -1,34 +1,52 @@
 # Hunter
-<img src="img/logo/Node-RED.png" width="200" alt="ME">
+![logo](img/logo/Node-RED.png)
+
+
 
 ### Acessando o sistema
-> Acesse o sistema a partir dessa url: https://hunter.qa.miisy.me
+> Acesse o sistema: [Hunter](https://hunter.qa.miisy.me)
+
+
+[texto][texto]
 
 ### Fazendo o login:
 > - Após acessar o sistema iremos cair na tela:
 >
-> <img src="img/login/Login-01.png" alt="Login-01">
+> ![Login-01](img/login/Login-01.png)
 >
 > - Clique no botão `Sign in with ME Account`
 > - Iremos cair na página para logar com o a conta ME.
 >
-> <img src="img/login/Login-02.png" alt="Login-02">
+> ![Login-02](img/login/Login-02.png)
 >
 > - A direita clique no botão `Microsoft`.
 >
-> <img src="img/login/Login-03.png" alt="Login-03">
+> ![Login-03](img/login/Login-03.png)
 >
 > - Agora iremos colocar o e-mail do ME e clicar no botão `Avançar`.
 >
-> <img src="img/login/Login-04.png" alt="Login-04">
+> ![Login-04](img/login/Login-04.png)
 >
 > - Agora iremos colocar a senha do e-mail do ME e clicar no botão `Avançar`.
 >
-> <img src="img/login/Login-05.png" alt="Login-05">
+> ![Login-05](img/login/Login-05.png)
 >
 > - Selecione a flag `Não mostrar isso novamente` e clique no botão `Sim`.
 >
-> <img src="img/login/Login-06.png" alt="Login-06">
+> ![Login-06](img/login/Login-06.png)
 >
 > - Iremos ver o sistema carregar para o seu usuário.
 
+### Bom dia
+>
+> See the section on [`Acessando o sistema`](#Hunter).
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
