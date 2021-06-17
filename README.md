@@ -6,3 +6,6 @@
 
 ### Fazendo o login:
 Após acessar o sistema iremos cair na tela:
+
+<img src="img/login/Login-01.png" width="200" alt="Login-01">
+
